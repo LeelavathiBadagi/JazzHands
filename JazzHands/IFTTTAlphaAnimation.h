@@ -1,5 +1,5 @@
 //
-//  IFTTTAlphaAnimation.h
+
 //  JazzHands
 //
 //  Created by Devin Foley on 9/27/13.
